@@ -1,12 +1,12 @@
-# Hey 👋, I'm [Bharathi G](https://bharathi-portfolio-omega.vercel.app/)
+ Hey 👋, I'm [Bharathi G](https://bharathi-portfolio-omega.vercel.app/)
 
-# 💫 About Me:
-[cite_start]🚀 I'm a motivated Junior Software Associate with 1 year of experience delivering scalable solutions in Agile teams. [cite: 9]
-[cite_start]💻 I've worked across backend and frontend development, integrating RESTful and third-party APIs to build scalable web applications. [cite: 13]
-[cite_start]🌱 I'm passionate about learning and team collaboration, [cite: 10] [cite_start]and I'm skilled in Scrum with strong technical abilities. [cite: 10]
+ 💫 About Me:
+🚀 I'm a motivated Junior Software Associate with 1 year of experience delivering scalable solutions in Agile teams. [cite: 9]
+💻 I've worked across backend and frontend development, integrating RESTful and third-party APIs to build scalable web applications. [cite: 13]
+🌱 I'm passionate about learning and team collaboration, [cite: 10] [cite_start]and I'm skilled in Scrum with strong technical abilities. [cite: 10]
 💬 Ask me about anything related to JavaScript, React, Node.js, or MongoDB!
-[cite_start]👨‍💻 Read more about my projects at [bharathi-portfolio-omega.vercel.app](https://bharathi-portfolio-omega.vercel.app/) [cite: 7]
-[cite_start]⚡ Fun fact: I'm known for flexibility, innovation, and high-quality contributions. [cite: 10]
+👨‍💻 Read more about my projects at [bharathi-portfolio-omega.vercel.app](https://bharathi-portfolio-omega.vercel.app/) [cite: 7]
+⚡ Fun fact: I'm known for flexibility, innovation, and high-quality contributions. [cite: 10]
 
 ## 🌐 Socials:
 [cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gbharathi) [cite: 6] [cite_start][![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gbharathitrs@gmail.com) [cite: 1]
